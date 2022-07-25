@@ -1,0 +1,5 @@
+<script>
+function myfunction() {
+window.open("https://www.instagram.com/london_watches.al/");
+}
+ </script>
